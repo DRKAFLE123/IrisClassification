@@ -1,6 +1,6 @@
 # IrisClassification  # Basic DataScience/ML Project
 ### Iris_multiclass_Classification using Machine Learning algorithms
-# Iam using the data set from kaggle which has following 4 features 
+# Iam using the data set from kaggle which has following 4 features  #link of dataset:https://www.kaggle.com/datasets/arshid/iris-flower-dataset
 - sepal_length
 - sepal_width
 - petal_length
