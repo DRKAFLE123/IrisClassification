@@ -17,6 +17,6 @@ Iris_multiclass_Classification using Machine Learning algorithmsw
 - SVM
 - KNN
 
-  # I have also done analysis before developing the model as well as I have compared also the accuracy_score of all algorithms
-  # I find KNN as a Best for my adtaset dataset
+  # I have done analysis before developing the model for features selection as well as I have compared  the accuracy_score of all algorithms at last.
+  # I find KNN as a Best for my iris_dataset
 
