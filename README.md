@@ -1,5 +1,5 @@
-# IrisClassification  # Basic DataScience Project
-Iris_multiclass_Classification using Machine Learning algorithmsw
+# IrisClassification  # Basic DataScience/ML Project
+### Iris_multiclass_Classification using Machine Learning algorithms
 # Iam using the data set from kaggle which has following 4 features 
 - sepal_length
 - sepal_width
